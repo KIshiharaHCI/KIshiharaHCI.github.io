@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Coding Projects:</h2>
 
-- <b>Robot Thermal Haptics in VR using C# (bachelor thesis)</b>
+- <b>Robot Thermal Haptics in VR using C# in Unity (bachelor thesis)</b>
   - [RoboHaptics](https://github.com/KIshiharaHCI/RoboHaptics)
 
 - <b>Game Development using Java (practical training in Software Development)</b>
