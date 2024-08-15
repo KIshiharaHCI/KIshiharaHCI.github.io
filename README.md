@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Coding Projects:</h2>
 
+- <b>Multiagent Storywriter using LLMs, Python (Langchain) (AI and I hackathon)</b>
+  - [Multi-Agent-Storywriter](https://github.com/KIshiharaHCI/Multi-Agent-Storywriter)
 - <b>Robot Thermal Haptics in VR using C# in Unity (bachelor thesis)</b>
   - [RoboHaptics](https://github.com/KIshiharaHCI/RoboHaptics)
 
